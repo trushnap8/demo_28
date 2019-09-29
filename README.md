@@ -1,4 +1,2 @@
 # demo_28
-test
-ytt
-jgj
+jenkins cicd test
